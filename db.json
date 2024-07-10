@@ -1,10 +1,28 @@
 {
-  "posts":[
-    { 
-      "id": 1, 
-      "title": "Crud em ReactJS com Chamaleon Code", 
-      "description": "Um vídeo sobre como programar usando ReactJS integrado a uma fake API", 
+  "posts": [
+    {
+      "id": "1",
+      "title": "Crud em ReactJS com Chamaleon Code",
+      "description": "Um vídeo sobre como programar usando ReactJS integrado a uma fake API",
       "content": "Criado pelo canal Chamaleon Code, um vídeo tutorial para ensinar como programar em ReactJS construindo um CRUD."
+    },
+    {
+      "id": "c6cd",
+      "title": "a",
+      "description": "aa",
+      "content": "aaa"
+    },
+    {
+      "id": "1e2e",
+      "title": "A inovação da IA no meio tecnológico",
+      "description": "A inteligência artificial vem se aprimorando cada vez mais nos dias atuais, e como isso afetará no meio tecnológico atual?",
+      "content": "Quais são seus benefícios, seus contratempos e até mesmo como pode auxiliar aos programadores..."
+    },
+    {
+      "id": "6785",
+      "title": "Feira de tecnologia CampusParty em SP",
+      "description": "Uma feira de inovações tecnológicas em São Paulo, perfeita para fãs e profissionais da área. ",
+      "content": "Repleta de novos conteúdos, inovações, computadores e diversos outros, a CampusParty é perfeita para quem ama tecnologia. "
     }
   ]
 }
