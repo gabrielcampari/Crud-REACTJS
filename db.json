@@ -1,7 +1,10 @@
 {
   "posts":[
-    {
-      "title": "Hello world! :)"
+    { 
+      "id": 1, 
+      "title": "Crud em ReactJS com Chamaleon Code", 
+      "description": "Um vídeo sobre como programar usando ReactJS integrado a uma fake API", 
+      "content": "Criado pelo canal Chamaleon Code, um vídeo tutorial para ensinar como programar em ReactJS construindo um CRUD."
     }
   ]
 }
